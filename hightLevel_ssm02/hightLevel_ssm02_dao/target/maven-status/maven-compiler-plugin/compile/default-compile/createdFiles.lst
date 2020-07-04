@@ -1,0 +1,7 @@
+ssm\liyuq\dao\IRoleDao.class
+ssm\liyuq\dao\IUserDao.class
+ssm\liyuq\dao\IProductDao.class
+ssm\liyuq\dao\ITravellerDao.class
+ssm\liyuq\dao\IPermissionDao.class
+ssm\liyuq\dao\IOrderDao.class
+ssm\liyuq\dao\IMemberDao.class

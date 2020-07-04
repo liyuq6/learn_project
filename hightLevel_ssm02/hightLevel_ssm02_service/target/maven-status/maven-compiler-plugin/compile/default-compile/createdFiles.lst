@@ -1,0 +1,10 @@
+ssm\liyuq\service\impl\OrderServiceImpl.class
+ssm\liyuq\service\impl\UserServiceImpl.class
+ssm\liyuq\service\impl\PermissionServiceImpl.class
+ssm\liyuq\service\impl\ProductServiceImpl.class
+ssm\liyuq\service\IOrderService.class
+ssm\liyuq\service\IPermissionService.class
+ssm\liyuq\service\impl\RoleServiceImpl.class
+ssm\liyuq\service\IUserService.class
+ssm\liyuq\service\IRoleService.class
+ssm\liyuq\service\IProductService.class

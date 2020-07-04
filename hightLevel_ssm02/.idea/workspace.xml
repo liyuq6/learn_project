@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db6dd4e-3e1b-45f7-9500-0f734e10cfcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="IntelliJConfiguration">
+    <option name="PROPERTY_FILES">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="REMOVE_NBSP" value="true" />
+    <option name="CREATE_NEW_JSP" value="true" />
+    <option name="KEY_RESOLUTION_TYPE" value="Use all words in label" />
+    <option name="PROMPT_FOR_KEY_PREFIX" value="false" />
+    <option name="LABEL_PART_1" value="&lt;bean:message key=&quot;" />
+    <option name="LABEL_PART_2" value="&quot;/&gt;" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_jars" />
+        <option name="mavenHome" value="E:/spark/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\spark\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dM38LSoPe5pjxs9HzdRQU6wnx2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hightLevel_ssm02_web/src/main/webapp/pages" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ssm.liyuq.controller" />
+      <recent name="ssm.liyuq.service.impl" />
+      <recent name="ssm.liyuq.service" />
+      <recent name="ssm.liyuq.dao" />
+      <recent name="ssm.liyuq.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\框架学习\hightLevel_ssm02\hightLevel_ssm02_web\src\main\webapp\pages" />
+      <recent name="E:\框架学习\hightLevel_ssm02\hightLevel_ssm02_web\src\main\webapp" />
+      <recent name="E:\框架学习\hightLevel_ssm02\hightLevel_ssm02_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.hightLevel_ssm02_web [tomcat7:run]">
+    <configuration name="hightLevel_ssm02_web [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/hightLevel_ssm02_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="hightLevel_ssm02_web tomcat7:run02" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/hightLevel_ssm02_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.hightLevel_ssm02_web tomcat7:run02" />
+      <item itemvalue="Maven.hightLevel_ssm02_web [tomcat7:run]" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db6dd4e-3e1b-45f7-9500-0f734e10cfcc" name="Default Changelist" comment="" />
+      <created>1592220973608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592220973608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1593087320504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593087320504" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592292596894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592292596894" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1593568925084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593568925084" />
+    <state x="517" y="204" key="FileChooserDialogImpl" timestamp="1592221186819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="204" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592221186819" />
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom" timestamp="1593569354121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593569354121" />
+    <state width="1493" height="321" key="GridCell.Tab.0.center" timestamp="1593569354121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593569354121" />
+    <state width="1493" height="321" key="GridCell.Tab.0.left" timestamp="1593569354121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593569354121" />
+    <state width="1493" height="321" key="GridCell.Tab.0.right" timestamp="1593569354121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593569354121" />
+    <state width="1493" height="373" key="GridCell.Tab.1.bottom" timestamp="1593244471034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593244471034" />
+    <state width="1493" height="373" key="GridCell.Tab.1.center" timestamp="1593244471034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593244471034" />
+    <state width="1493" height="373" key="GridCell.Tab.1.left" timestamp="1593244471034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593244471034" />
+    <state width="1493" height="373" key="GridCell.Tab.1.right" timestamp="1593244471034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="373" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593244471034" />
+    <state x="278" y="0" key="SettingsEditor" timestamp="1593087619596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="278" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593087619596" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1593410575686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593410575686" />
+    <state x="153" y="43" key="new project wizard" timestamp="1592962453456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="43" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592962453456" />
+    <state x="470" y="29" key="refactoring.ChangeSignatureDialog" timestamp="1592530956946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="29" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1592530956946" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593324509825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593324509825" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hightLevel_ssm02_service/src/main/java/ssm/liyuq/service/impl/UserServiceImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="s.value" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
